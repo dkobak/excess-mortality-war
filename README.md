@@ -1,7 +1,15 @@
 # Excess mortality in Russia due to the war in Ukraine
 
-This repository contains data (that I obtained by request from Rosstat) on the number of deaths in Russia by federal region, year (1990 to 2022), age (5-year groups), and gender. The original XLSX files are in the `deaths-by-age-gender-region-year` folder, and my processed long-format version is available as the CSV file in GZ archive.
+![Ratios of male deaths to female deaths](medusa2023/figures/medusa-ratios.png)
 
-![Ratios of male deaths to female deaths](figures/medusa-ratios.png)
+The code reproducing analysis from https://meduza.io/feature/2023/07/10/47-tysyach-pogibshih-rossiyskih-soldat is in the `medusa2023` folder.
 
-The code reproducing analysis published in Medusa is available in `medusa2023` Jupyter notebook.
+The code reproducing analysis from [LINK] is in the `arxiv2023` folder.
+
+## Data
+
+This repository contains the following data requested directly from Rosstat:
+
+* Number of deaths by federal region, year (1990 to 2022), age (5-year groups), and gender.
+* Number of external deaths by year (2000 to 2022) and gender.
+* Number of HIV deaths by year (2006 to 2022), age (1-year groups), and gender.
