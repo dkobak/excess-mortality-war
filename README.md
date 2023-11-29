@@ -4,7 +4,7 @@
 
 The code reproducing analysis from https://meduza.io/feature/2023/07/10/47-tysyach-pogibshih-rossiyskih-soldat is in the `medusa2023` folder.
 
-The code reproducing analysis from [LINK] is in the `arxiv2023` folder.
+The code reproducing analysis from https://osf.io/preprints/socarxiv/xcrme/ is in the `arxiv2023` folder.
 
 ## Data
 
