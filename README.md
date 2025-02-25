@@ -1,10 +1,10 @@
 # War fatalities in Russia estimated via excess male mortality
 
-![Male deaths, female deaths, and ratios](arxiv2023/figures/mainfig.png)
+![Male deaths, female deaths, and ratios](demography2025/figures/mainfig.png)
 
 The code reproducing analysis from https://meduza.io/feature/2023/07/10/47-tysyach-pogibshih-rossiyskih-soldat is in the `medusa2023` folder.
 
-The code reproducing analysis from https://osf.io/preprints/socarxiv/xcrme/ is in the `arxiv2023` folder.
+The code reproducing analysis from https://osf.io/preprints/socarxiv/xcrme/ is in the `demography2025` folder.
 
 ## Data
 
