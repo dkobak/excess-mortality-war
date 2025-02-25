@@ -10,6 +10,6 @@ The code reproducing analysis from https://osf.io/preprints/socarxiv/xcrme/ is i
 
 This repository contains the following data requested directly from Rosstat:
 
-* Number of deaths by federal region, year (1990 to 2023), age (5-year groups), and gender.
-* Number of external deaths by year (2000 to 2022) and gender.
-* Number of HIV deaths by year (2006 to 2023), age (1-year groups), and gender.
+* Number of deaths by federal region, year (1990 to 2023), age (5-year groups), and sex.
+* Number of external deaths by year (2000 to 2022) and sex.
+* Number of HIV deaths by year (2006 to 2023), age (1-year groups), and sex.
