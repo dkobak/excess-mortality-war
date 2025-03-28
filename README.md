@@ -4,7 +4,7 @@
 
 The code reproducing analysis from https://meduza.io/feature/2023/07/10/47-tysyach-pogibshih-rossiyskih-soldat is in the `medusa2023` folder.
 
-The code reproducing analysis from https://osf.io/preprints/socarxiv/xcrme/ is in the `demography2025` folder.
+The code reproducing analysis from https://read.dukeupress.edu/demography/article/doi/10.1215/00703370-11862998/398920/War-Fatalities-in-Russia-in-2022-2023-Estimated is in the `demography2025` folder.
 
 ## Data
 
